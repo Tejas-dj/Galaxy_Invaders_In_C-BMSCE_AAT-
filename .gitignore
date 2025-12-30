@@ -1,0 +1,9 @@
+# Ignore executables
+*.exe
+*.o
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore high score file (so you don't overwrite other people's scores)
+highscore.txt
