@@ -1,5 +1,7 @@
 # Galaxy Invaders 🚀
 
+![Galaxy Invaders Gameplay](Gameplay.jpg)
+
 A terminal-based replica of the classic Space Invaders game, written in **Pure C** for the first-year Engineering Project at BMSCE.
 
 This project demonstrates core programming concepts including **Structures**, **Pointers**, **Arrays**, **File I/O**, and **Modular Architecture**.
