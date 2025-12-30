@@ -1,6 +1,6 @@
 # Galaxy Invaders 🚀
 
-![Galaxy Invaders Gameplay](Gameplay.jpg)
+![Start Screen](screenshots/start_screen.jpg)
 
 A terminal-based replica of the classic Space Invaders game, written in **Pure C** for the first-year Engineering Project at BMSCE.
 
@@ -17,6 +17,10 @@ This project demonstrates core programming concepts including **Structures**, **
 * **Language:** C (C99 Standard)
 * **Platform:** Windows (Uses `<windows.h>` for cursor control and `<conio.h>` for input)
 * **Graphics:** ASCII / Terminal-based
+
+
+## 👾 Gameplay
+![Galaxy Invaders Gameplay](screenshots/Gameplay.jpg)
 
 ## 🚀 How to Run
 
